@@ -10,6 +10,10 @@ header {
     color: white;
     padding: 10px 0;
     text-align: center;
+    background: #35424a;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
 }
 
 nav ul {
@@ -20,6 +24,12 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 20px;
+    
+header {
+    background: #35424a;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
 }
 
 nav ul li a {
